@@ -1,12 +1,13 @@
 # Storytime
 
-Base setup for a modern project setup with Vite, React, Typescript
+Base setup for a modern project setup with Vite, React, Typescript with the goal of catching inconsistencies early on resulting in cleaner codebase
 
 <br>
 
 ## Features:
 
-- Eslint and Prettier configuration
+- ESlint and Prettier configuration
+- Setup of husky and lint-staged
 
 <br>
 
